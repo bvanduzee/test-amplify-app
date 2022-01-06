@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+	Some change to see if it automatically deploys
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
